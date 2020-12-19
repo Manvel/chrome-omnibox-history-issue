@@ -1,10 +1,10 @@
 {
    "chrome_extension_name": {
       "description": "Extension name",
-      "message": "Boilerplate"
+      "message": "Omnibox issue"
    },
    "chrome_extension_description": {
       "description": "Extension description",
-      "message": "Minimal template code for chrome extensions"
+      "message": "After deleting history using browsingData it's still possible to get data user has visited using omnibox"
    }
 }
